@@ -9,3 +9,4 @@ if st.button("Submit"):
     st.write("Square of the number is: ", get_square(number))
 else:
     st.write("Please enter the number and click submit button")
+    
